@@ -1,0 +1,43 @@
+body{
+	background-image: url(http://i.imgur.com/nFjVnPO.jpg); 
+	font-family: 'Indie Flower', cursive;
+	color: white;
+}
+h2{
+	margin-left: 21em;
+	font-size: 2em;
+}
+.h2{
+	margin-top: 15px;
+	background-color: orange;
+	opacity: 0.4;
+    filter: alpha(opacity=40);
+}
+nav{
+	margin-top: 1.5em;
+	margin-left: 31em;
+	padding: 15px;
+	color: orange;
+	text-decoration: none;
+}
+.kader{
+	
+	margin:auto;
+	width: 770px;
+}
+a{
+	text-decoration: none;
+	color: orange;
+	margin-left:3em; 
+}
+img{
+    float:right;
+	margin-top: 2em;
+	margin-left:2em;
+	max-height:300px;
+	max-width:330px;
+}
+.p1,p{
+	text-align: center;
+	padding: 15px;
+}

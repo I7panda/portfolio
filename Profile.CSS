@@ -1,0 +1,88 @@
+body{
+	background-image: url(http://i.imgur.com/nFjVnPO.jpg);
+	font-family: 'Indie Flower', cursive;
+	color: white;
+}
+h1{
+	margin-top: 1em;
+	margin-left: 19em;
+	font-size: 1em;
+}
+.h1{
+	margin-top: 10px;
+	margin:auto;
+	width: 800px;
+	background-color: orange;
+	opacity: 0.4;
+    filter: alpha(opacity=40);
+
+}
+h2{
+	margin-left: 17em;  
+	font-size: 2em;
+
+}
+.h2{
+	margin-top: 15px;
+	background-color: orange;
+	opacity: 0.4;
+    filter: alpha(opacity=40);
+}
+nav{
+	margin-top: 1.5em;
+	margin-left: 28em;
+	color: orange;
+	text-decoration: none;
+}
+.kader{
+	margin: auto;
+	width: 770px;
+}
+.kader2{
+    margin: auto;
+	width: 770px;
+}
+a{
+	text-decoration: none;
+	color: orange;
+	margin-left:3em; 
+}
+img{
+	margin-top: 5em;
+	margin-left: 8em;
+	max-width: 500px;
+}
+.boots{
+	float: left;
+	clear: both;
+	max-width: 250px;
+	margin-top: -23.8em;
+}
+.buddha{
+	float:right;
+	clear: both;
+	max-width: 250px;
+	margin-top: -23.8em;
+	margin-right: 9em;
+}
+.pages{
+	float: right;
+	margin-top: -28em;
+	margin-right: 20em;
+
+}
+.opa{
+	float:right;
+	clear: both;
+	max-width: 250px;
+	margin-top: -10.9em;
+	margin-right: 9em;
+
+}
+p{
+	margin-top: 2.5em;
+	margin-bottom: 1em;
+}
+.pics{
+    width:1350px;
+}
